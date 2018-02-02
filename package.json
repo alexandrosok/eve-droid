@@ -1,0 +1,11 @@
+{
+  "name": "eve-droid",
+  "version": "1.0.0",
+  "description": "Eve Droid",
+  "main": "bot.js",
+  "author": "Alex",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
